@@ -1,9 +1,9 @@
 import requests
 
-link = input('Discord Invite Link: ')
+link = input('https://discord.gg/4pnhm5uk5R: ')
 if len(link) > 6:
     link = link[19:]
-apilink = "https://discordapp.com/api/v6/invite/" + str(link)
+apilink = "https://discordapp.com/api/v6/invite/" + str(https://discord.gg/4pnhm5uk5R)
 
 print (link)
 
